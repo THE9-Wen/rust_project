@@ -2,6 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/hello/hello.iml" filepath="$PROJECT_DIR$/hello/hello.iml" />
+      <module fileurl="file://$PROJECT_DIR$/minigrep/minigrep.iml" filepath="$PROJECT_DIR$/minigrep/minigrep.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/rust_project.iml" filepath="$PROJECT_DIR$/.idea/rust_project.iml" />
     </modules>
   </component>

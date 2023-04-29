@@ -3,8 +3,24 @@
   <component name="NewModuleRootManager" inherit-compiler-output="true">
     <exclude-output />
     <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/chapter_7/my-project/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/guessing_game/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/chapter_8/collections_demo/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/chapter_10/trait_demo/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/chapter_11/test_demo/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/chapter_9/file_demo/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/websocket_demo/client_demo/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/websocket_demo/server_demo/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/leetcode/src" isTestSource="false" />
       <excludeFolder url="file://$MODULE_DIR$/guessing_game/target" />
+      <excludeFolder url="file://$MODULE_DIR$/chapter_7/my-project/target" />
+      <excludeFolder url="file://$MODULE_DIR$/chapter_8/collections_demo/target" />
+      <excludeFolder url="file://$MODULE_DIR$/chapter_9/file_demo/target" />
+      <excludeFolder url="file://$MODULE_DIR$/chapter_10/trait_demo/target" />
+      <excludeFolder url="file://$MODULE_DIR$/websocket_demo/server_demo/target" />
+      <excludeFolder url="file://$MODULE_DIR$/websocket_demo/client_demo/target" />
+      <excludeFolder url="file://$MODULE_DIR$/chapter_11/test_demo/target" />
+      <excludeFolder url="file://$MODULE_DIR$/leetcode/target" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
